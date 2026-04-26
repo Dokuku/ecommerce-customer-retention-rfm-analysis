@@ -134,8 +134,11 @@ ecommerce-customer-retention-rfm-analysis/
 * **Lost** — оценивать целесообразность возвратных кампаний
 ## Визуализации
 ### Cohort Retention
+
  <img width="1714" height="704" alt="photo_5438289566340158064_w" src="https://github.com/user-attachments/assets/a6e0ab03-ea44-4be9-bfb7-bccdecc9881a" />
-RFM Segmentation
+
+### RFM Segmentation
+
 <img width="1232" height="828" alt="photo_5438289566340158063_y" src="https://github.com/user-attachments/assets/82018b21-632b-47e4-94f2-41c397ba9cb1" />
 
 
